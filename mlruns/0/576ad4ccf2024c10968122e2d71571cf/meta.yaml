@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pawan/Documents/projects/Titanic_torch/torch_titanic/mlruns/0/576ad4ccf2024c10968122e2d71571cf/artifacts
+end_time: 1751035923260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 576ad4ccf2024c10968122e2d71571cf
+run_name: salty-moth-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751035923240
+status: 4
+tags: []
+user_id: pawan

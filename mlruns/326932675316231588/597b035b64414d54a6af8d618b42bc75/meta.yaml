@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pawan/Documents/projects/Titanic_torch/torch_titanic/mlruns/326932675316231588/597b035b64414d54a6af8d618b42bc75/artifacts
+end_time: 1751044421983
+entry_point_name: ''
+experiment_id: '326932675316231588'
+lifecycle_stage: active
+run_id: 597b035b64414d54a6af8d618b42bc75
+run_name: amazing-flea-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751044421964
+status: 3
+tags: []
+user_id: pawan

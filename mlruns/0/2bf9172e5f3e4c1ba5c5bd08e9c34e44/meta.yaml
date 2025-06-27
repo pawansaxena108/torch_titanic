@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pawan/Documents/projects/Titanic_torch/torch_titanic/mlruns/0/2bf9172e5f3e4c1ba5c5bd08e9c34e44/artifacts
+end_time: 1751035930341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bf9172e5f3e4c1ba5c5bd08e9c34e44
+run_name: melodic-flea-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751035930318
+status: 4
+tags: []
+user_id: pawan
