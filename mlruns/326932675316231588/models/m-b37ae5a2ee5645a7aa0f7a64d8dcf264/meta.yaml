@@ -1,0 +1,10 @@
+artifact_location: file:///Users/pawan/Documents/projects/Titanic_torch/torch_titanic/mlruns/326932675316231588/models/m-b37ae5a2ee5645a7aa0f7a64d8dcf264/artifacts
+creation_timestamp: 1751133733337
+experiment_id: '326932675316231588'
+last_updated_timestamp: 1751133739643
+model_id: m-b37ae5a2ee5645a7aa0f7a64d8dcf264
+model_type: null
+name: model
+source_run_id: 3b300732ec4141afb2478aa04ffd3ebb
+status: 2
+status_message: null

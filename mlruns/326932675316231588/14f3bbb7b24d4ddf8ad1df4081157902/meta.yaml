@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pawan/Documents/projects/Titanic_torch/torch_titanic/mlruns/326932675316231588/14f3bbb7b24d4ddf8ad1df4081157902/artifacts
+end_time: 1751128928278
+entry_point_name: ''
+experiment_id: '326932675316231588'
+lifecycle_stage: active
+run_id: 14f3bbb7b24d4ddf8ad1df4081157902
+run_name: Titanic_Torch_Run_20250628_174151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751128911081
+status: 3
+tags: []
+user_id: pawan

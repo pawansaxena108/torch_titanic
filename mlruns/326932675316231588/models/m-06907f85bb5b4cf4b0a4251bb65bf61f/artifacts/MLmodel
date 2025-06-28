@@ -1,0 +1,27 @@
+artifact_path: file:///Users/pawan/Documents/projects/Titanic_torch/torch_titanic/mlruns/326932675316231588/models/m-06907f85bb5b4cf4b0a4251bb65bf61f/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.16
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.7.0
+mlflow_version: 3.1.1
+model_id: m-06907f85bb5b4cf4b0a4251bb65bf61f
+model_size_bytes: 28173
+model_uuid: m-06907f85bb5b4cf4b0a4251bb65bf61f
+prompts: null
+run_id: 6d27b44207394875ad9233436c46e6a6
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+utc_time_created: '2025-06-28 18:28:29.288222'
